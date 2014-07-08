@@ -1,0 +1,5 @@
+xf86-video-mali (1.0-svn-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- WanZhiYuan <dv.xw@qq.com>  Tue, 08 Jul 2014 15:02:29 +0000

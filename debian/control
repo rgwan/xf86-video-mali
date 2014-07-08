@@ -1,0 +1,15 @@
+Source: xf86-video-mali
+Section: unknown
+Priority: extra
+Maintainer: WanZhiYuan <dv.xw@qq.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/xf86-video-mali.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/xf86-video-mali.git;a=summary
+
+Package: xf86-video-mali
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Mali driver for sunxi platform
+ <insert long description, indented with spaces>
